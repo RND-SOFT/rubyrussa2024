@@ -13,7 +13,7 @@
 Ссылки на гемчики:
 * `worker_killer` - [Репозиторий](https://github.com/RND-SOFT/worker_killer?utm_source=github&utm_medium=post&utm_campaign=rr2024)
 
-Презентация - [Руби’лово за память](https://docs.google.com/presentation/d/12J7nwjcGiFNiQQidL9i3II7doW5_qEyGiNHj8Q8cLZ4/edit?usp=sharing)
+Презентация - `Руби’лово за память` [[Слайды](https://docs.google.com/presentation/d/12J7nwjcGiFNiQQidL9i3II7doW5_qEyGiNHj8Q8cLZ4/edit?usp=sharing)] [[PDF](https://github.com/user-attachments/files/17164250/RR.2024.pdf)]
 
 
 Telegram: [@jerry_ru](https://t.me/jerry_ru) - Всегда на связи <br>
